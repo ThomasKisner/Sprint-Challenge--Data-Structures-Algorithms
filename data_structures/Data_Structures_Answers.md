@@ -1,9 +1,10 @@
 Add your answers to the questions below.
 
 1. What is the runtime complexity of your `depth_first_for_each` method?
+    I believe it is o(2n), which works out to n.
 
 2. What is the space complexity of your `depth_first_for_each` function?
-
+    I believe it is o(2n), which works out to n.
 3. What is the runtime complexity of your `breadth_first_for_each` method?
 
 4. What is the space complexity of your `breadth_first_for_each` method?
